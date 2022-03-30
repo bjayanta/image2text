@@ -1,5 +1,7 @@
 # Image to Text
-Using Tesseract.
+Using [Tesseract](https://tesseract-ocr.github.io/).
+
+<br>
 
 ## Install Tesseract 
 
@@ -11,6 +13,7 @@ Using Tesseract.
 tess.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 ```
 
+<br>
 
 ### Linux: 
 Step 1: Update your system:
@@ -27,9 +30,12 @@ Step 3: Install Tesseract on Ubuntu:
 Step 4: Confirm the Tesseract version installed.
 > tesseract --version
 
+<br>
+
 ## Install python package
 
 > pip install pillow pytesseract
 
+<br>
 Thank you.
 
