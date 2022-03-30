@@ -31,3 +31,5 @@ Step 4: Confirm the Tesseract version installed.
 
 > pip install pillow pytesseract
 
+Thank you.
+
