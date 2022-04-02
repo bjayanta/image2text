@@ -1,42 +1,64 @@
-Session 01 (Requirement analysis)
+oO mn to W KI pp,
 
-11 September, 2021
+oN
 
-Requirement
-
-01.
-
-02.
-
-11.
-12.
-
-Splash screen
-
-. Question bank (Old questions + Solution + Explanation)
-03.
-04.
-0s.
-06.
-07.
-08.
-09.
 10.
 
-Video Lecture
-Lecture notes
-Practice (Old questions + Solution + Explanation)
+14.
+12.
 
-English vocabulary (Daily)
-GK (sheet)
-News
-Home work
-Exam
+Be:
+14.
 
-a. Topic Test
+MaxSOP Dart Test 1, 2022
+Dart Programming
+Time — 2:00 hours
+Full marks- 50
+[N.B. — The figures in the right margin indicate full marks]
 
-b. Subject Final
-Model Test (Highlight)
+(Answer any 10 questions)
 
-Quiz
+What is Dart and why does Flutter use it? |
+
+What are the data types in the Dart language?
+
+What is a Spread operator (double dot) in Dart?
+
+What are Null-aware operators? Explain it.
+
+What is Lambda function in Dart and when do you use it? It’s syntax.
+
+What are parameters? It’s classification. And what is the difference between named
+parameters and positional parameters in Dart?
+
+Write a program to find out grades from marks for the SSC exam.
+
+Write a program for
+
+1) 2)
+
+* Ke KK *
+* * * KK *
+* ck * KK K *
+* OK OK KOK KOK OK
+* kK x * * kK
+* * OK KX
+
+Find odd numbers from 0 to 100.
+
+Write a program for a calculator for (+, -, *, /) operations & every operation has
+individual function. —
+
+Write a program for infinity loop.
+
+What is exception handler? Write a program to represent an exception handler
+using Try ... Catch statement.
+
+Write a program to take input from user.
+
+Create a list & print all the value using loop.
+
+uw Ww wo Ww
+
+wm Ui
 
